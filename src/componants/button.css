@@ -1,0 +1,58 @@
+.saruq {
+    text-align: center;
+    width: 200px;
+    height: 80px;
+    color: rgb(255, 217, 0);
+    background-color: rgb(201, 116, 12);
+    padding: 9px 30px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 70px;
+}
+.red {
+    width: 200px;
+    height: 80px;
+    color: rgb(72, 255, 0);
+    padding: 9px 30px;
+    border-radius: 8px;
+    background-color: rgb(113, 110, 255);
+    border: none;
+    margin-top: 70px;
+}
+
+.blue {
+    height: 80px;
+    width: 200px;
+    border-radius: 8px;
+    color: rgb(122, 122, 122);
+    background-color: rgb(110, 255, 178);
+    padding: 9px 30px;
+    border: none;
+    margin-top: 70px;
+}
+.yellow {
+    background-color: yellow;
+    border-radius: 8px;
+    color: black;
+    padding: 9px 30px;
+    border: none;
+    width: 200px;
+    height: 80px;
+    margin-top: 70px;
+}
+
+.dark {
+    height: 80px;
+    width: 200px;
+    color: rgb(0, 89, 255);
+    background-color: rgb(242, 239, 234);
+    padding: 9px 30px;
+    border: none;
+}
+.flex {
+    text-align: center;
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+    justify-content: center;
+}
